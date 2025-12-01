@@ -6,7 +6,7 @@
 
 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -17,3 +17,4 @@
 
 
 finally we learn how to use headers 
+
